@@ -27,9 +27,9 @@
 						<li>
 							<a href="caminar-online">Caminar Online</a>
 						</li>
-						<li>
+						<!--<li>
 							<a href="contacto">Contactos</a>
-						</li>
+						</li>-->
 					</ul>
 				</div>
 			</div>

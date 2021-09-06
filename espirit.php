@@ -2365,7 +2365,6 @@
             <iframe width="100%" height="400" src="https://www.youtube.com/embed/hggH0s7VpMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <div class="spac20"></div>
             <div class="width90 divcenter">
-
                <div class="accordion" id="accordionExample">
                  <div class="card">
                    <div class="card-header" id="headingOne">
@@ -2484,12 +2483,127 @@
                     </div>
                    </div>
                  </div>
+                 </div>
+                 <div class="width90 divcenter">
+                   <div class="tituboxito">
+                     <h2 class="c-morado">Al terminar el 5° Misterio</h2>
+                  </div>
+                  <p>G. Por las intenciones del Santo Padre, rezaremos un Padre Nuestro, un Avemaría y un Gloria.</p>
+                  <p>T. Padre Nuestro, que estás en el cielo...</p>
+                  <p>T. Dios te salve María, llena eres de gracia...</p>
+                  <p>T. Gloria al Padre...</p>
+                  <p>G. Dios te salve María, Hija de Dios Padre, en tus manos encomendamos nuestra fe para que la ilumines, llena eres de gracia..
+                  </p>
+                  <p>
+                     G. Dios te salve María, Madre de Dios Hijo, en tus manos encomendamos nuestra esperanza para que la alientes, llena eres de gracia...
+                  </p>
+                  <p>
+                     G. Dios te salve María, Esposa de Dios Espíritu Santo, en tus manos encomendamos nuestra caridad para que la inflames, llena eres de gracia...
+                  </p>
+                  <p>
+                     G. Dios te salve María, Templo y Sagrario de la Santísima Trinidad, Virgen concebida sin culpa original, llena eres de gracia...
+                  </p>
+                  <p>
+                     T. Dios te salve Reina y Madre de misericordia, vida, dulzura y esperanza nuestra; Dios te salve. A ti llamamos los desterrados hijos de Eva; a ti suspiramos, gimiendo y llorando en este valle de lágrimas. ¡Ea pues!, Señora y abogada nuestra: vuelve a nosotros tus ojos misericordiosos, y después de este destierro, muéstranos a Jesús: fruto bendito de tu vientre. ¡Oh clemente, oh piadosa, oh dulce Virgen María! Ruega por nosotros Santa Madre de Dios, para que seamos dignos de alcanzar las divinas gracias y promesas de nuestro Señor Jesucristo. 
+                  </p>
+                  <p class="text-center"><strong>Amén</strong></p>
+                  <div class="spac10"></div>
+                  <div class="tituboxito">
+                     <h2 class="c-morado">Letanías</h2>
+                  </div>
+                  <p>
+                   Señor, ten piedad de nosotros<br>
+                   Cristo, ten piedad de nosotros<br>
+                   Señor, ten piedad de nosotros<br>
+                   Cristo óyenos, Cristo óyenos<br>
+                   Cristo escúchanos, Cristo escúchanos<br>
+                </p>
+                <p>
+                  Dios Padre celestial, ten piedad de nosotros<br>
+                  Dios Hijo redentor del mundo,<br>
+                  Dios Espíritu Santo,<br>
+                  Santísima Trinidad, que eres un solo Dios<br>
+               </p>
+               <p>
+                  Santa María, Ruega por nosotros<br>
+                  Santa Madre de Dios,<br>
+                  Santa Virgen de las vírgenes,<br>
+               </p>
+               <p>
+                  Madre de Cristo,<br>
+                  Madre de la Iglesia,<br>
+                  Madre de la divina gracia,<br>
+                  Madre purísima,<br>
+                  Madre castísima,<br>
+                  Madre virginal,<br>
+                  Madre inmaculada,<br>
+                  Madre amable,<br>
+                  Madre admirable,<br>
+                  Madre del buen consejo,<br>
+                  Madre del Creador,<br>
+                  Madre del Salvador,<br>
+               </p>
+               <p>Virgen prudentísima,<br>
+                  Virgen digna de veneración,<br>
+                  Virgen digna de alabanza,<br>
+                  Virgen poderosa,<br>
+                  Virgen clemente,<br>
+               Virgen fiel,
+            </p>
+               <p>Espejo de justicia,<br>
+                  Trono de la sabiduría,<br>
+                  Causa de nuestra alegría,<br>
+                  Vaso espiritual,<br>
+                  Vaso digno de honor,<br>
+                  Vaso insigne de devoción,<br>
+                  Rosa mística,<br>
+                  Torre de David,<br>
+                  Torre de marfil,<br>
+                  Casa de oro,<br>
+                  Arca de la alianza,<br>
+                  Puerta del cielo,<br>
+                  Estrella de la mañana,<br>
+                  Salud de los enfermos,<br>
+                  Refugio de los pecadores,<br>
+                  Consuelo de los afligidos,<br>
+               Auxilio de los cristianos,
+            </p>
+               <p>
+                  Reina de los ángeles,<br>
+                  Reina de los patriarcas,<br>
+                  Reina de los profetas,<br>
+                  Reina de los apóstoles,<br>
+                  Reina de los mártires,<br>
+                  Reina de los confesores,<br>
+                  Reina de las vírgenes,<br>
+                  Reina de todos los santos,<br>
+                  Reina concebida sin pecado original,<br>
+                  Reina elevada al cielo,<br>
+                  Reina del santísimo rosario,<br>
+                  Reina de las familias,<br>
+                  Reina de la paz,<br>
+               </p>
+               <p>Cordero de Dios que quitas el pecado del mundo,
+               Perdónanos, Señor.</p>
+               <p>
+                  Cordero de Dios que quitas el pecado del mundo,
+                  Escúchanos, Señor.
+               </p>
+               <p>Cordero de Dios que quitas el pecado del mundo,
+               ten piedad de nosotros.</p>
+               <div class="spac10"></div>
+               <div class="tituboxito">
+                  <h2 class="c-morado">Oremos</h2>
                </div>
+               <div class="spac10"></div>
+               <p>Te rogamos, Señor, que nos concedas a nosotros tus siervos, gozar de perpetua salud de alma y cuerpo y, por la gloriosa intercesión de la bienaventurada Virgen María, seamos librados de la tristeza presente y disfrutemos de la eterna alegría. Por Cristo nuestro Señor.</p>
+               <p class="text-center"><strong>Amén</strong></p>
             </div>
+            <hr>
             <div class="spac20"></div>
          </div>
       </div>
-      <div class="spac20"></div>
+      <div class="spac10"></div>
       <div class="tituboxito">
          <h2 class="c-morado">HERRAMIENTAS DE</h2>
          <p class="c-morado">PODER</p>
@@ -4987,92 +5101,187 @@
             </div>
             <h2 class="text-agenda mx-2">
                <small>
-                 1° El Bautismo de Jesús en el Jordán.
+               1º La oración y agonía de Jesús en el huerto de Getsemaní.
                </small>
             </h2>
             <div class="spac10"></div>
             <div class="width90 divcenter">
                <p>
-                  "Vino Jesús desde Nazaret de Galilea al Jordán para ser bautizado por Juan. Y he aquí, que estando Él en oración, se abrió el cielo, bajó el Espíritu Santo en forma de paloma se posó sobre Él, y se oyó una voz del cielo que decía: Este es mi hijo muy amado escúchenlo"(Lc. 3, 21-23; Mt. 3,13)
+                  "Y sumido en agonía, insistía más en su oración" (Lc 22,44)
                </p>
                <p>
                   <small>
-                     <i>
-                        Amado Padre, Jesús en cada paso me ha dejado un ejemplo, siendo Dios se bautiza y el Espíritu Santo Baja Sobre Él; permite que por tu amor, mis compromisos bautismales sean renovados y asumidos en mi vida, en mis palabras, en mis acciones bajo tu Santo Espíritu; en ello, honrarte y glorificarte. 
-                     </i>
+                  <i>
+                  Amado Jesús no tenías necesidad de orar; pero quisiste hacerlo para enseñarme que la oración es el mayor sustento ante mi tribulación, necesidad, fragilidad y torpeza. Ella es el canal por el cual entramos en intimidad tu y yo, yo te hablo, tú me escuchas, tú me hablas yo te escucho. Anímame bajo tu Santo Espíritu a nunca silenciar mi oración. 
+                  </i>
                   </small>
                </p>
-
                <div class="spac10"></div>
                <h2 class="text-agenda mx-2">
                   <small>
-                    2° Las bodas de Caná
+                  2º La flagelación de Jesús.
                   </small>
                </h2>
                <div class="spac10"></div>
                <p>
-                  "Se celebraba una boda en Caná de Galilea, y estaba allí la madre de Jesús. Fueron invitados también a la boda Jesús y sus discípulos. Y como faltaba vino, María le dijo a Jesús: "No tienen vino". Respondió Jesús: "¿Qué nos va a ti y a mí? Además, no ha llegado mi hora". Pero la madre dijo a los que servían: "Haced lo que Él os diga". Había colocadas seis tinajas de piedra y Jesús les dijo: "Llenen de agua las tinajas" Y les dice: “llévenlo al maestro" Cuando éste gustó el vino dijo: "Todo hombre pone primero el vino bueno y cuando ya han tomado el peor, pero tu has guardado el mejor vino hasta ahora". (Jn 2, 2-11)
+                  "Entonces Pilato tomó a Jesús y Mandó azotarle" (Jn 19,1)
                </p>
                <p>
                   <small>
-                     <i>
-                       Que hermoso saber y reconocer tu poder amado Jesús, con obediencia y Amor transformaste el agua en un exquisito vino; hoy pongo ante ti mi vida, transfórmala a la voluntad del Padre, y así hazme una mejor persona. Con tu Amor, en tu Amor y por tu Amor. 
-                     </i>
+                  <i>
+                  Jesús mi Señor, padeciste ante las ordenes de pilatos; aléjame de ser yo, quien, con mi vanidad, soberbia, arrogancia flagele tu santa presencia; no permitas que mis palabras, mis pensamientos y acciones flagele nuestra común unidad y perdona cuantas veces te he ofendido, ayúdame para no flagelarte con mi pecado.
+                  </i>
                   </small>
                </p>
-
                <div class="spac10"></div>
                <h2 class="text-agenda mx-2">
                   <small>
-                    3° El anuncio del Reino de Dios
+                  3º La coronación de espinas de Nuestro Señor.
                   </small>
                </h2>
                <div class="spac10"></div>
                <p>
-                  "Jesús comenzó a predicar la Palabra de Dios y decía: “Se cumplió el tiempo y ha llegado el reino de Dios: arrepentíos y creed en el Evangelio" Y su fama se extendió por toda la región. (Mt. 4, 13-17 Mc. 1,15 Lc 4,15)
+                  "Los soldados trenzaron una corona de espinas y se la pusieron en la cabeza" 
+                  (Jn 19, 2)
                </p>
                <p>
                   <small>
-                     <i>
-                        Amado Padre, abre mis labios y mi boca proclamara tu palabra, sana mi corazón y mis actos te mostraran a ti, tu amor, tu perdón, tu fidelidad. Hazme un verdadero instrumento de Amor.
-                     </i>
+                  <i>
+                  Tú; Rey de la humanidad, Rey del alma mía, apiádate de mí; que la burla de los soldados no sea mi burla. Tú verbo encarnado; se mi ruta a la eternidad, que mis pensamientos no sean espinas oscuras que dañen mi voluntad; Tú sabiduría eterna sostenme en ti, perdona todo pecado causado por mis pensamientos. Lléname de tu gracia.
+                  </i>
                   </small>
                </p>
-
                <div class="spac10"></div>
                <h2 class="text-agenda mx-2">
                   <small>
-                   4° La Transfiguración
+                  4º El camino hacia el Calvario, llevando Jesús la Cruz a cuestas, por nuestros pecados.
                   </small>
                </h2>
                <div class="spac10"></div>
                <p>
-                  "Tomando Jesús a Pedro, Santiago y Juan, subió a un monte a orar. Mientras oraba su rostro se transformó, su vestido se volvió blanco y resplandeciente, y Moisés y Elías hablaban con Él. Pedro le dijo a Jesús: Maestro ¡qué bien se está aquí! Hagamos tres tiendas: una para ti, otra para Moisés y otra para Elías. Mientras decía esto, apareció una nube que los cubrió y salió una luz que decía: "Este es mi hijo elegido, escuchadle". (Lc. 9, 28-36)
+                  "Y Jesús cargando su cruz, salió hacia el lugar llamado Calvario" (Jn 19, 17)
                </p>
                <p>
                   <small>
-                     <i>
-                        Escucharte quiero Señor, habla a mi corazón hijo de Dios y que el resplandor que te cubrió, ilumine mis pasos; Tú, luz de amor y misericordia abrázame, contenme y pueda reflejar prontamente mi semejanza a ti.
-                     </i>
+                  <i>
+                  Cargaste la Cruz sin reparo alguno, caminaste entre burlas, golpes, insultos y demás. Señor con tu gracia permíteme llevar mi cruz, padecer mis tristezas y dolores, con la misma fortaleza, como Tú lo hiciste y hazme sensible al dolor ajeno para servirte, sirviendo al que sufre y Ha perdido la esperanza. 
+                  </i>
                   </small>
                </p>
-
                <div class="spac10"></div>
                <h2 class="text-agenda mx-2">
                   <small>
-                   5° La Institución de la Eucaristía
+                  5º La crucifixión y muerte de nuestro Señor.
                   </small>
                </h2>
                <div class="spac10"></div>
                <p>
-                  "Cuando llegó la hora, se puso a la mesa con sus discípulos y les dijo: "Ardientemente he querido comer esta Pascua con ustedes antes de padecer, porque no la comeré más hasta que sea cumplida en el reino de Dios. Tomando el cáliz, dio gracias y dijo: tomen y beban todos de él, porque éste es el cáliz de mi sangre que será derramada por ustedes. Después tomó el pan, dando gracias lo partió y se los dio diciendo: Este es mi cuerpo que será entregado por ustedes. Hagan esto en memoria mía." (Lc. 22, 14-23)
+                  "Lo crucificaron, y con él a otros dos, uno a cada lado y Jesús en medio" (Jn 19, 18)
                </p>
                <p>
                   <small>
-                     <i>
-                        Señor Jesús; Que gran expresión de Amor, instauraste la eucaristía para quedarte con y para nosotros, te antecediste a nuestra fragilidad y te das como alimento para en ti, pan vivo, encontrar la fuerza, el aliento y la vida. ¿Como no amarte y adorarte?, no te reservas nada, todo me lo das, pues todo eres Pan sagrado de Amor. Gracias.
-                     </i>
+                  <i>
+                  Mi amado Redentor, haz muerto por mí, por el perdón a mis pecados y para garantizarme vida eterna, que expresión más clara del Amor infinito. Dame de ese amor para Amar, de ese perdón para perdonar, y ayúdame con tu gracia a recordar siempre que, si lo hiciste por mí, yo también debo hacerlo por los demás. Hazme un instrumento de tu paz.
+                  </i>
                   </small>
+               </p>
+            </div>
+            <div class="spac20"></div>
+            <img src="assets/img/deco.svg" class="img-fluid">
+         </section>
+      </div>
+   </div>
+</div>
+
+<!---Modales Rosarios =============-->
+<div class="modal fade" id="rosario4" tabindex="-1" aria-labelledby="comunicacionLabel" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+         <section class="sinespa">
+            <img src="assets/img/rosario.jpg" class="d-block w-100">
+            <div class="spac10"></div>
+            <div class="titulos-gene text-center">
+               <p>Misterios de Gloria</p>
+            </div>
+            <h2 class="text-agenda mx-2">
+               <small>
+               1º La triunfante Resurrección de Jesús.
+               </small>
+            </h2>
+            <div class="spac10"></div>
+            <div class="width90 divcenter">
+               <p>
+                  "¿Por qué buscáis entre los muertos al que está vivo? No está aquí: ha resucitado" (Lc 24, 5-6)
+               </p>
+               <p>
+                  <small>
+                  <i>
+                  Dios de Amor, permíteme buscarte y encontrarte en mis hermanos, experimentar una resurrección diaria y que la muerte del pecado, el odio, la pereza, la envidia, la infidelidad… nunca más toque mis pensamientos, ni mis acciones, regálame tu gracia y líbrame de todo mal.
+                  </i>
+                  </small>
+               </p>
+               <div class="spac10"></div>
+               <h2 class="text-agenda mx-2">
+                  <small>
+                  2º La admirable Ascensión de Jesús al cielo.
+                  </small>
+               </h2>
+               <div class="spac10"></div>
+               <p>
+                  "Mientras los bendecía se separó de ellos y fue llevado al cielo" (Lc 24, 51)
+               </p>
+               <p>
+                  <small>
+                  <i>
+                  Señor Jesús, Tu habitas en mi corazón, permíteme dar pasos firmes en la fe, servirte con amor y fidelidad y haz que mi camino a casa sea un Caminar Consciente y de servicio constante; que todo talento que me diste te glorifique y los frutos retornen a ti como ofrenda de amor. 
+                  </i>
+                  </small>
+               </p>
+               <div class="spac10"></div>
+               <h2 class="text-agenda mx-2">
+                  <small>
+                  3º La venida del Espíritu Santo sobre María Santísima y los Apóstoles.
+                  </small>
+               </h2>
+               <div class="spac10"></div>
+               <p>
+                  "Se les aparecieron unas lenguas como de fuego que se repartieron y se posaron sobre cada uno de ellos; quedaron todos llenos del Espíritu Santo" (Hch 2, 3-4)
+               </p>
+               <p>
+                  <small>
+                  <i>
+                  Promesa cumplida!, Jesús tu nos dijiste, “Pero yo os digo la verdad: Os es necesario que yo me vaya; porque si yo no me voy, el Consolador no vendría a vosotros; más si me voy, os lo enviaré”. (Jn 16:7); permíteme ser testimonio vivo del Espíritu Santo recibido en el Bautismo y aceptado a plenitud en la Confirmación, sea Él defensor en mi propia debilidad y torpeza; sus dones me alimenten y pueda glorificar al Padre creador, a ti Hijo Redentor y al Espíritu santificador.
+                  </i>
+                  </small>
+               </p>
+               <div class="spac10"></div>
+               <h2 class="text-agenda mx-2">
+                  <small>
+                  4º La Asunción de María al cielo en cuerpo y alma.
+                  </small>
+               </h2>
+               <div class="spac10"></div>
+               <p>
+                  "¡Feliz la que ha creído que se cumplirían las cosas que le fueron dichas de parte del Señor!" (Lc 1, 45)
+               </p>
+               <p>
+                  <small>
+                  <i>
+                  Madre hermosa del Cielo y del alma mía, tu, ¡la de un Sí! Inquebrantable; amorosa y perdonadora, te pido a través del Santo Rosario, que sea mi abogada ante Dios en mi tribulación, en mi vida diaria y en la hora de mi muerte; así, pueda yo llegar prontamente al corazón de tu amadísimo hijo Jesucristo. 
+                  </i>
+                  </small>
+               </p>
+               <div class="spac10"></div>
+               <h2 class="text-agenda mx-2">
+                  <small>
+                  5º La Coronación de María Santísima como Reina y Señora del universo.
+                  </small>
+               </h2>
+               <div class="spac10"></div>
+               <p>
+                  "Una gran señal apareció en el cielo: una mujer vestida del sol con la luna bajo sus pies y una corona de doce estrellas sobre su cabeza" (Ap 12, 1)
+                  <br>
+                  Nada supera la voluntad de Dios; fuiste escogida y llena de gracia, coronada como Reina y Señora; Madre, que tus ojos misericordiosos que vieron morir a tu hijo ensangrentado y violentado, hoy me miren a mí, en mis dolores y aflicciones consuélame y levántame, aplasta bajo tus pies toda fuerza opresora, toda obra maligna y que en mí, solo triunfe el amor de Dios, ese amor eterno manifestado por tu hijo en la santísima Cruz.
                </p>
             </div>
             <div class="spac20"></div>

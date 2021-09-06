@@ -67,8 +67,16 @@
         <div class="col-lg-4 my-auto">
          <div class="text-gene">
           <ul class="redes-foot">
-            <li><a href="#" class="cwt"><i class="fab fa-whatsapp"></i></a></li>
-           <li><a href="#" class="cfb"><i class="fab fa-facebook-f"></i></a></li>
+            <li>
+              <a href="https://api.whatsapp.com/send?phone=+57 310 2936364" class="cwt" target="_blank">
+                <i class="fab fa-whatsapp"></i>
+              </a>
+            </li>
+           <li>
+            <a href="https://www.facebook.com/uncaminarconsciente" class="cfb" target="_blank">
+              <i class="fab fa-facebook-f"></i>
+            </a>
+          </li>
            <li><a href="#" class="ctw"><i class="fab fa-twitter"></i></a></li>
            <li><a href="#" class="cyt"><i class="fab fa-youtube"></i></a></li>
          </ul>
